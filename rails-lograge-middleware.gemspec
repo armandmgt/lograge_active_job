@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'rails5_lograge_middleware'
-  s.version     = '1.1.1'
+  s.version     = '1.2.0'
   s.summary     = 'Rails middleware for Lograge'
   s.description = 'Rails middleware for Lograge with support to log exceptions from Rails and ActiveJobs'
   s.authors     = ['Michał Zalewski']
