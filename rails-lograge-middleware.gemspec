@@ -12,8 +12,8 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency 'rspec', '~> 3.5'
 
-  s.add_runtime_dependency 'activesupport', '>= 4', '< 5.1'
-  s.add_runtime_dependency 'railties',      '>= 4', '< 5.1'
+  s.add_runtime_dependency 'activesupport', '>= 4'
+  s.add_runtime_dependency 'railties',      '>= 4'
 
   s.add_runtime_dependency 'lograge',       '< 1.0'
 end
